@@ -15,12 +15,7 @@ O projeto evoluiu desde uma versão simples com prompts até uma aplicação web
 - Trabalho com arrays e listas
 - Integração com APIs externas (síntese de voz)
 
-## 📚 Sobre o projeto
-
-Este **Jogo do Número Secreto** consolidou todos os conceitos aprendidos durante o curso, incluindo:
-
 ## Objetivo
-
 Documentar minha jornada de aprendizado em JavaScript, compartilhando soluções e evoluindo constantemente. Cada exercício representa um passo a mais no domínio da linguagem.
 
 ## 🛠️ Tecnologias
