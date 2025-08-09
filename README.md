@@ -6,9 +6,10 @@ Este repositório contém o projeto final desenvolvido durante meu curso de Java
 
 ## Objetivo
 Documentar minha jornada de aprendizado em JavaScript, compartilhando soluções e evoluindo constantemente. Cada exercício representa um passo a mais no domínio da linguagem.
-## Projeto Final - Jogo do Número Secreto
 
 ---
+
+## Projeto Final - Jogo do Número Secreto
 
 O projeto evoluiu desde uma versão simples com prompts até uma aplicação web interativa com:
 
