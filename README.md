@@ -27,7 +27,7 @@ O projeto evoluiu desde uma versão simples com prompts até uma aplicação web
 
 1. Clone este repositório para sua máquina:
    ```bash
-   git clone https://github.com/seu-usuario/amigo-secreto.git
+   git clone https://github.com/seu-usuario/numero-secreto.git
    ```
 2. Navegue até a pasta do projeto:
    ```bash
