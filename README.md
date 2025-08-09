@@ -1,9 +1,5 @@
 # 🎮 Jogo do Número Secreto
 
-Este repositório contém o projeto final desenvolvido durante meu curso de JavaScript - um jogo interativo de adivinhação de números.
-
----
-
 ## Objetivo
 Documentar minha jornada de aprendizado em JavaScript, compartilhando soluções e evoluindo constantemente. Cada exercício representa um passo a mais no domínio da linguagem.
 
@@ -45,7 +41,7 @@ O projeto evoluiu desde uma versão simples com prompts até uma aplicação web
 
 ### 👨🏻‍💻 Autor
 
-| [<img loading="lazy" src="https://github.com/Qxcyll.png" width=115><br><sub>Gabriel M.</sub>](https://github.com/Qxcyll) |
+| [<img loading="lazy" src="https://github.com/qxcyll.png" width=115><br><sub>Gabriel M.</sub>](https://github.com/qxcyll) |
 | :---: |
 
 *"A prática leva à perfeição"* 
