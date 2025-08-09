@@ -4,7 +4,11 @@ Este repositório contém o projeto final desenvolvido durante meu curso de Java
 
 ---
 
+## Objetivo
+Documentar minha jornada de aprendizado em JavaScript, compartilhando soluções e evoluindo constantemente. Cada exercício representa um passo a mais no domínio da linguagem.
 ## Projeto Final - Jogo do Número Secreto
+
+---
 
 O projeto evoluiu desde uma versão simples com prompts até uma aplicação web interativa com:
 
@@ -18,9 +22,24 @@ O projeto evoluiu desde uma versão simples com prompts até uma aplicação web
 
 ---
 
-## Objetivo
-Documentar minha jornada de aprendizado em JavaScript, compartilhando soluções e evoluindo constantemente. Cada exercício representa um passo a mais no domínio da linguagem.
+### Como utilizar?
 
+1. Clone este repositório para sua máquina:
+   ```bash
+   git clone https://github.com/seu-usuario/amigo-secreto.git
+   ```
+2. Navegue até a pasta do projeto:
+   ```bash
+   cd amigo-secreto
+   ```
+3. Abra o arquivo `index.html` no navegador de sua preferência:
+   - Basta clicar duas vezes no arquivo `index.html`
+   - Ou, caso queira usar via terminal:
+     ```bash
+     start index.html       # Windows
+     open index.html        # macOS
+     xdg-open index.html    # Linux
+     ```
 ---
 
 ### 👨🏻‍💻 Autor
